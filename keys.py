@@ -1,0 +1,1 @@
+twitter = {"client_key":"boHCzXNKhhgJnBFfPoHRxWKx2", "client_secret":"xrMsqTeOIjiy2vZvAA9L23cLjcNF7wieIWUjD2hm3r0Aw9ekfj", "resource_owner_key":'1141040220-PjBrvGd5fnz0hMaeXXAso2kkVzmoDppRVTt4t0w', "resource_owner_secret":'ABjTah7wNo8iV5riyRsMpNOY3p00wKliD92uRMx1zs5bL', "protected_url":'https://api.twitter.com/1.1/statuses/home_timeline.json'}

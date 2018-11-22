@@ -1,0 +1,269 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: C:\Users\Ron\Desktop\CS401\Final_Project\Twitter_Help_Jesse
+[NotebookApp | INFO] 0 active kernels 
+[NotebookApp | INFO] The Jupyter Notebook is running at: http://localhost:8888/?token=8754bfa0111758809a1b7ccc7e8e57f0a623f1318026628b
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=8754bfa0111758809a1b7ccc7e8e57f0a623f1318026628b
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | WARNING] Notebook Project_05-Notebook-1.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 78b45d82-2f95-4425-8c0d-9a4a58b85e0d
+[NotebookApp | WARNING] Timeout waiting for kernel_info reply from 78b45d82-2f95-4425-8c0d-9a4a58b85e0d
+[NotebookApp | WARNING] Notebook Project_05-Notebook-2.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: d0d8ac75-1a52-4ee3-887a-524ef39f4a38
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-1.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-1.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-1.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-1.ipynb
+[NotebookApp | INFO] Kernel restarted: 78b45d82-2f95-4425-8c0d-9a4a58b85e0d
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-1.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-1.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-1.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-1.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-1.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-1.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-1.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-1.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-1.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-1.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-1.ipynb
+[NotebookApp | INFO] Saving file at /keys.py
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-1.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-1.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-1.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Kernel restarted: d0d8ac75-1a52-4ee3-887a-524ef39f4a38
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Kernel restarted: d0d8ac75-1a52-4ee3-887a-524ef39f4a38
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-1.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-1.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | WARNING] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+[NotebookApp | WARNING] iopub messages resumed
+[NotebookApp | WARNING] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+[NotebookApp | WARNING] iopub messages resumed
+[NotebookApp | WARNING] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+[NotebookApp | WARNING] iopub messages resumed
+[NotebookApp | WARNING] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+[NotebookApp | WARNING] iopub messages resumed
+[NotebookApp | WARNING] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+[NotebookApp | WARNING] iopub messages resumed
+[NotebookApp | WARNING] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+[NotebookApp | WARNING] iopub messages resumed
+[NotebookApp | WARNING] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+[NotebookApp | WARNING] iopub messages resumed
+[NotebookApp | WARNING] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+[NotebookApp | WARNING] iopub messages resumed
+[NotebookApp | WARNING] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+[NotebookApp | WARNING] iopub messages resumed
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] 302 GET / (::1) 1.00ms
+[NotebookApp | WARNING] WebSocket ping timeout after 90005 ms.
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: C:\Users\Ron\Desktop\CS401\Final_Project\Twitter_Help_Jesse
+[NotebookApp | INFO] 0 active kernels 
+[NotebookApp | INFO] The Jupyter Notebook is running at: http://localhost:8888/?token=772bb4bb396f44d6ef8951063101906649c7dfd5d776c751
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=772bb4bb396f44d6ef8951063101906649c7dfd5d776c751
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | INFO] Kernel started: 06952b22-2c8f-4868-bf4c-7db9a2ea935e
+[NotebookApp | INFO] Kernel started: 6d65296a-eac6-40f4-9ccd-569f201b5a37
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-1.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-1.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | WARNING] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+[NotebookApp | WARNING] iopub messages resumed
+[NotebookApp | WARNING] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+[NotebookApp | WARNING] iopub messages resumed
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: C:\Users\Ron\Desktop\CS401\Final_Project\CEO_Classifier_Extractor
+[NotebookApp | INFO] 0 active kernels 
+[NotebookApp | INFO] The Jupyter Notebook is running at: http://localhost:8888/?token=e1712b48e2b6f7d8c69edc6c3f52816bb4af013c404e5734
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=e1712b48e2b6f7d8c69edc6c3f52816bb4af013c404e5734
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | INFO] Kernel started: 08688ecb-80ef-4cea-b825-0e514a508655
+[NotebookApp | INFO] Kernel started: 4e080e7a-466d-4dd7-a562-b2a7c1c79b03
