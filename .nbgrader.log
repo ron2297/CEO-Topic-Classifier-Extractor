@@ -290,3 +290,194 @@
 [NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
 [NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
 [NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Kernel interrupted: 4e080e7a-466d-4dd7-a562-b2a7c1c79b03
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Kernel interrupted: 4e080e7a-466d-4dd7-a562-b2a7c1c79b03
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Kernel interrupted: 4e080e7a-466d-4dd7-a562-b2a7c1c79b03
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Kernel interrupted: 4e080e7a-466d-4dd7-a562-b2a7c1c79b03
+[NotebookApp | INFO] Kernel restarted: 4e080e7a-466d-4dd7-a562-b2a7c1c79b03
+[NotebookApp | WARNING] Timeout waiting for kernel_info_reply: 4e080e7a-466d-4dd7-a562-b2a7c1c79b03
+[NotebookApp | ERROR] Exception restarting kernel
+    Traceback (most recent call last):
+      File "C:\Users\Ron\Anaconda3\lib\site-packages\notebook\services\kernels\handlers.py", line 90, in post
+        yield gen.maybe_future(km.restart_kernel(kernel_id))
+      File "C:\Users\Ron\Anaconda3\lib\site-packages\tornado\gen.py", line 1055, in run
+        value = future.result()
+      File "C:\Users\Ron\Anaconda3\lib\site-packages\tornado\concurrent.py", line 238, in result
+        raise_exc_info(self._exc_info)
+      File "<string>", line 4, in raise_exc_info
+    tornado.gen.TimeoutError: Timeout waiting for restart
+[NotebookApp | ERROR] {
+      "Host": "localhost:8888",
+      "Connection": "keep-alive",
+      "Content-Length": "0",
+      "Accept": "application/json, text/javascript, */*; q=0.01",
+      "Origin": "http://localhost:8888",
+      "X-Requested-With": "XMLHttpRequest",
+      "X-Xsrftoken": "2|63c72a72|0412ddbe4973a1d066fa0c3fa60168cc|1542296710",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36",
+      "Referer": "http://localhost:8888/notebooks/Project_05-Notebook-2.ipynb",
+      "Accept-Encoding": "gzip, deflate, br",
+      "Accept-Language": "en-US,en;q=0.9",
+      "Cookie": "_xsrf=2|63c72a72|0412ddbe4973a1d066fa0c3fa60168cc|1542296710; username-localhost-8888=\"2|1:0|10:1542929971|23:username-localhost-8888|44:ZTM2MzE1ZDYxOTk3NDYxYmEwNjY0OTA1YmVlMjYwYTg=|8cff5144600070a58bfe51435a771da38c4f48b71590f36c5920f7f7ae5bf6f7\""
+    }
+[NotebookApp | ERROR] 500 POST /api/kernels/4e080e7a-466d-4dd7-a562-b2a7c1c79b03/restart (::1) 36962.29ms referer=http://localhost:8888/notebooks/Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Kernel shutdown: 4e080e7a-466d-4dd7-a562-b2a7c1c79b03
+[NotebookApp | INFO] Kernel started: da90f2cc-6a8b-4f5c-95fa-4a7996003254
+[NotebookApp | INFO] Kernel restarted: da90f2cc-6a8b-4f5c-95fa-4a7996003254
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] Saving file at /Project_05-Notebook-2.ipynb
+[NotebookApp | INFO] KernelRestarter: restarting kernel (1/5)
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: C:\Users\Ron\Desktop\CS401\Final_Project\CEO_Classifier_Extractor
+[NotebookApp | INFO] 0 active kernels 
+[NotebookApp | INFO] The Jupyter Notebook is running at: http://localhost:8888/?token=a97e0baef591bcf707dda45771b9fbc321f9464ee5072278
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=a97e0baef591bcf707dda45771b9fbc321f9464ee5072278
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | WARNING] Notebook Twitter-API-Authorization-CEO-Project.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 84871475-6d3e-4cf9-b519-36ee13bf2086
+[NotebookApp | WARNING] Notebook Twitter-API-Tweet-Collection-CEO-Project.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: f3716650-58f5-4d5a-9dee-74d58244528b
+[NotebookApp | INFO] Saving file at /Twitter-API-Authorization-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /keys.py
+[NotebookApp | INFO] Saving file at /Twitter-API-Authorization-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Authorization-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Authorization-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Kernel interrupted: f3716650-58f5-4d5a-9dee-74d58244528b
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
+[NotebookApp | INFO] Saving file at /Twitter-API-Tweet-Collection-CEO-Project.ipynb
